@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou a Sophia</h1>
-<h3 align="center">Desenvolvedora Full Stack Python</h3>
+<h3 align="center">Estutande de Full Stack Python</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
